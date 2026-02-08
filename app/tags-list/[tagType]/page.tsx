@@ -313,7 +313,7 @@ export default function() {
               </div>
             </li>*/}
             <li className="nav-item">
-              <Link className="nav-link"  href="scan"  aria-controls="icons">
+              <Link className="nav-link"  href="/scan"  aria-controls="icons">
                 <i className="menu-icon mdi mdi-layers-outline"></i>
                 <span className="menu-title">Scan Bracelet</span>
                 {/*<i className="menu-arrow"></i>*/}
@@ -341,7 +341,7 @@ export default function() {
               </div>
             </li>*/}
             <li className="nav-item">
-              <a className="nav-link" href="about">
+              <a className="nav-link" href="/about">
                 <i className="menu-icon mdi mdi-file-document"></i>
                 <span className="menu-title">About</span>
               </a>
