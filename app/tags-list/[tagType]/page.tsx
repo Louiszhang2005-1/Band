@@ -363,10 +363,10 @@ export default function() {
                         <Link className="nav-link active" id="profile-tab" href="/staff" role="tab" aria-selected="false">Registered Staff</Link>
                       </li>
                       <li className="nav-item">
-                        <Link className="nav-link" id="contact-tab" href="scan" role="tab" aria-selected="false">Scan Bracelet</Link>
+                        <Link className="nav-link" id="contact-tab" href="/scan" role="tab" aria-selected="false">Scan Bracelet</Link>
                       </li>
                       <li className="nav-item">
-                        <Link className="nav-link border-0" id="more-tab" href="about" role="tab" aria-selected="false">About</Link>
+                        <Link className="nav-link border-0" id="more-tab" href="/about" role="tab" aria-selected="false">About</Link>
                       </li>
                     </ul>
                     <div>
