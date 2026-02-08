@@ -98,8 +98,7 @@ export default function() {
           </div>
           <div>
             <a className="navbar-brand brand-logo" href="index.html">
-              <img src="images/logo.svg" alt="logo" />
-            </a>
+              <img src="/custom/logo-project-mod.png" alt="logo" width="1500px"/>            </a>
             <a className="navbar-brand brand-logo-mini" href="index.html">
               <img src="images/logo-mini.svg" alt="logo" />
             </a>
